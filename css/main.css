@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+
+#EVENT {width: 100%; height: 90px;  margin: 0 auto; background-color: #e99b53;}
+#EVENT > .box2 {width: 1130px; height: 90px; margin: 0 auto; }
+#EVENT  > .box2 >  p {font-size: 50px; color:white; float: left; margin: 10px 30px 10px 30px; font-family: 'Lobster', cursive; text-shadow: 4px 4px 4px #be6715;}
+#EVENT > .box2 >  span {font-size: 16px; color: white; float: right; text-align: center; margin: 25px 60px 10px 20px;}
+
+#silder  {width: 100%; height: 5090px;  margin: 0 auto; background-color: #eddec7;}
+#silder > .some {width: 1130px; height: 900px; margin: 0 auto; position: relative; } 
+#silder > .some > p { text-align: center;  font-size: 100px; color: #f6f7dc; text-shadow: 4px 4px 4px #e99b53; font-family: 'Lobster', cursive; padding: 450px 0 0px; margin: 0px 20px 20px 340px; position: absolute;}
+#silder > .some > span {text-align: center; color: #f6f7dc; position: absolute; font-size: 30px; padding: 400px 0 0px; margin: 25px 0 0px -100px ; font-family: 'VT323', monospace; }
+#silder > .some > img { margin:  0 auto;}
+#silder > .some > .a {float: left; margin: 90px 0 0 0;} 
+#silder > .some > .a:hover {opacity:0.5;}
+#silder > .some > .b {float: right; margin: -480px 0 0 0;}
+#silder > .some > .b:hover {opacity:0.5;}
+#silder > .some > .c {float: left; margin: -5px 0 0 0;}
+#silder > .some > .c:hover {opacity:0.5;}
+#silder > .some > .d {float: right; margin: -240px 0 0 0;} 
+#silder > .some > .d:hover {opacity:0.5;}
+#silder > .some > img {margin: 90px 0;}
+#silder > .some > .loading {position: absolute; bottom: 100px; left: 50%; transform: translateX(-50%);}
+
+
+
+#silder > .new {width: 1130px; height: 1000px; margin: 0 auto; }
+#silder > .new > p {text-align: center; font-size: 100px; color: #f6f7dc; text-shadow: 4px 4px 4px #e99b53; margin: -30px 50px 0 50px; font-family: 'Lobster', cursive;}
+#silder > .new > .box3 {width: 555px; height: 405px; float: left; background-color: aliceblue;  margin:0 auto; display:block;}
+#silder > .new > .box3 img  {width: 100%; height: 340px;}
+#silder > .new > .box3 > p > a {text-decoration: none; font-size:28px; color:#5a3312; display:block; font-weight:bold; margin: 10px 10px 10px 10px; font-family: 'Bree Serif', serif; }
+#silder > .new > .box3 > span {float: right; margin: -40px 10px 10px 10px;}
+#silder > .new > .box3 > span > a {text-decoration: none; color:rgb(110, 63, 0); }
+#silder > .new > .box3 > .c1 { font-size:18px; color:rgb(110, 63, 0); display:block; font-family: 'Bree Serif', serif;  }
+#silder > .new > .box3 > .c2 {font-size:18px; color:rgb(110, 63, 0); display:block; font-family: 'Bree Serif', serif; }
+#silder > .new > .box3 > .c3 {font-size:18px; color:rgb(110, 63, 0); display:block; font-family: 'Bree Serif', serif; }
+#silder > .new > .box3 > .c4 {font-size:18px; color:rgb(110, 63, 0); display:block; font-family: 'Bree Serif', serif; }
+#silder > .new > .box4 {width: 555px; height: 405px; float: right; background-color: aliceblue;  margin:0 auto; display:block;}
+#silder > .new > .box4 img  {width: 100%; height: 340px;}
+#silder > .new > .box4 > p > a {text-decoration: none; font-size:28px; color:#5a3312; display:block; font-weight:bold; margin: 10px 10px 10px 10px; font-family: 'Bree Serif', serif; }
+#silder > .new > .box4 > span {float: right; margin: -40px 120px 10px 10px; font-family: 'Bree Serif', serif;}
+#silder > .new > .box4 > span > a {text-decoration: none; color:rgb(110, 63, 0);  }
+#silder > .new > .box4 > .d1 {font-size:18px;  color:rgb(110, 63, 0); display:block;  }
+#silder > .new > .box4 > .d2 {font-size:18px; color:rgb(110, 63, 0); display:block;  margin: -40px 30px 10px 10px;}
+#silder > .new > .box4 > .d3 {font-size:14px; color:rgb(110, 63, 0); display:block;  }
+#silder > .new img:hover {cursor:pointer;  opacity:0.5;} 
+#silder > .new > .box5 {width: 1130px; height: 400px; margin: 0 auto; clear: both; padding-top: 150px;}
+#silder > .new > .box5 > img {width: 200px; height: 150px; margin: 50px 500px 0 500px ;}
+#silder > .new > .box5 > p {text-align: center; font-size: 100px; color: #f6f7dc; text-shadow: 4px 4px 4px #e99b53; margin: -30px 50px 0 50px; font-family: 'Lobster', cursive;}
+
+#silder > .think {width: 1500px; height: 400px; margin: 0 auto; } 
+#silder > .think > ul > li > a > img:hover {opacity:0.5;  cursor:pointer;}
+#silder > .think > img {width: 300px; height:300px; margin: 0 auto; display: block; }
+#silder > .think > ul > li > a {display: inline; margin: 0; float: left; }
+#silder > .think > p {font-size:18px; color: #e99b53; float: left; margin: 30px 10px 10px 200px;  font-family: 'VT323', monospace;}
+#silder > .think > span {font-size:18px; color: #e99b53; float:right; margin: 30px 300px 10px 10px; font-family: 'VT323', monospace;}
+#silder > .think2 {width: 1500px; height: 400px; margin: 0 auto; } 
+#silder > .think2 > img {width: 300px; height:300px; margin: 0 auto; display: block; }
+#silder > .think2 > ul > li > a {display: inline; margin: 0; float: left; }
+#silder > .think2 > ul > li > a > img:hover {opacity:0.5;  cursor:pointer;}
+#silder > .think2 > p {font-size:18px; color: #e99b53; float: left; margin: 30px 10px 10px 200px; font-family: 'VT323', monospace;}
+#silder > .think2 > span {font-size:18px; color: #e99b53; float:right; margin: 30px 300px 10px 10px; font-family: 'VT323', monospace;}
+
+#silder > .best {width: 1500px; height: 900px; margin: 0 auto; } 
+#silder > .best > p {text-align: center; font-size: 100px; color: #f6f7dc; text-shadow: 4px 4px 4px #e99b53; margin: 50px 0 0 0 ; font-family: 'Lobster', cursive;}
+#silder > .best > img {margin: 150px  0px;}
+#silder > .item {width: 1500px; height: 900px; margin: 0 auto;  } 
+#silder > .item > img {margin: 250px 0;}
+
+
+
+section {width: 100%; height: 775px;  margin: 0 auto; background-color: #ebcab9; }
+section > .retro {width: 1500px; height: 770px; margin: 0 auto;  }
+section > .retro:hover {cursor:pointer;  transform: scale(0.9); transition: all 0.3s ease-in-out;}
+section > .retro > img {margin: 0;}
+
